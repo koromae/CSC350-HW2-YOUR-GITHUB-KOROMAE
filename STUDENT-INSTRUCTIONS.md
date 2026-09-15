@@ -134,10 +134,10 @@ docs: verify independent homework on GitHub
 
 Required outcome:
 
-- before synchronization, the new commit and sentence exist on GitHub but not in your local copy;
-- after synchronization, the local repository contains the GitHub-created commit;
-- the verification sentence appears in the local file; and
-- the same short commit ID is visible locally and on GitHub.
+- before synchronization, the new commit and sentence exist on GitHub but not in your local copy; verified ✅
+- after synchronization, the local repository contains the GitHub-created commit; [it contains it ✅]
+- the verification sentence appears in the local file; [it appears when running the command "git log -n 1. "]
+- the same short commit ID is visible locally and on GitHub. [Verified: same CommitID for both:8b3585d]
 
 Record that commit ID in the evidence table. Do not create a second commit for the same verification sentence.
 

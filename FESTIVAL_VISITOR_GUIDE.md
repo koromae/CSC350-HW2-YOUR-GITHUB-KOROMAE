@@ -53,30 +53,30 @@ nothing to commit, working tree clean]
 
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
-| Personalized guide | [ID] | `docs: personalize festival visitor guide` |
-| Visitor access information | [ID] |  |
-| GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
-| Final reflection | [ID] | `docs: complete independent Git reflection` |
+| Personalized guide | [f547b69] | `docs: personalize festival visitor guide` |
+| Visitor access information | [a700d6c] |  |
+| GitHub verification | [8b3585d] | `docs: verify independent homework on GitHub` |
+| Final reflection | [8b3585d] | `docs: complete independent Git reflection` |
 
 ## Individual Reflection
 
 1. What is the difference between saving a file and committing it?
 
-   [Your answer]
+   [When saving a file, the changes on that file will only be stored inside the working tree. Whereas, when we commit it, a permanent snapshot is recorded and stored on the local repository]
 
 2. What is the difference between `git diff` and `git diff --staged`?
 
-   [Your answer]
+   [When the command “git diff” is run, it shows the changes that have been saved on the working directory but not in the staged area. Whereas, when running the command “git diff –staged”, all changes that have been staged but not committed will be shown.]
 
 3. Why did the GitHub verification sentence not appear locally before `git pull`?
 
-   [Your answer]
+   [It did not appear locally because the changes have been done and committed on the remote repository only, making those changes visible remotely on Github only and not on the local repository. Git pull is the command that will synchronize the local repository with the remote one. It is only after running that command that the verification sentence will appear locally.]
 
 4. What did `-u` accomplish in `git push -u origin main`?
 
-   [Your answer]
+   [It creates a permanent tracking link between the main branch of the local repository and the main branch of the remote repository]
 
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
-   [Your answer]
+   [The evidence is found when running the command “git log -n 1”. This command will show the commitID of the last commit. When run, the Commit ID ​​”8b3585d” appears, matching with the commit ID of the last commit on the remote repository. This testifies that both repository are synchronized ]
 
