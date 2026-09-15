@@ -47,7 +47,7 @@ nothing to commit, working tree clean]
 
 ## GitHub Verification
 
-[Replace this line on GitHub—not in VS Code]
+[Verified on Github by Mahawa Koroma]
 
 ## Commit Evidence
 
