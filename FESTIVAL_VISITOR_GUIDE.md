@@ -2,33 +2,34 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: [Mahawa Koroma]
+- Course and section: [CSC350H 1300]
+- Date: [09/13/2026]
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Current branch: [main]
+- Personal Homework 2 GitHub URL: [Repository URL: https://github.com/koromae/CSC350-HW2-YOUR-GITHUB-KOROMAE.git]
+- Starting `git status`: [On branch main
+nothing to commit, working tree clean]
+- Starting preparation commit ID: [bd125dd]
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: [BMCC Summer Festival]
+- Location: [199 Chambers St, New York, NY 10007]
+- Intended audience: [Student, Alumni and families]
+- Theme: [Celebrate the rich diversity of the BMCC community around fun summer activities and networking]
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
 
-   [Your answer]
+   [The saved changes currently live in the working tree]
 
 2. Has it been staged or committed?
 
-   [Your answer]
+   [No, the changes have not been staged nor committed yet]
 
 ## Arrival Information
 
