@@ -33,17 +33,17 @@ nothing to commit, working tree clean]
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
+- Transit or parking: [Take the 1,2,3,A,C,E trains to chambers street, the 4,5,6 to brooklyn Bridge and walk on Chambers street to get to the main building. You can also take the R,Q,W, and N train.]
+- Entrance or meeting location: [Please enter via the main entrance on Chambers Street of the main building og BMCC at 199 Chambers St, New York, NY 10007]
 
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. [The building has elevators and ramps for anyone to access]
+2. [The campus will provide assistance and structured guidance to elder alumni for their smooth visit to their campus]
 
 ## Visitor Reminder
 
-[One concise safety or visitor reminder]
+[Please bring a valid photo ID upon your arrival, for it is required to access the building]
 
 ## GitHub Verification
 
@@ -54,7 +54,7 @@ nothing to commit, working tree clean]
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
 | Personalized guide | [ID] | `docs: personalize festival visitor guide` |
-| Visitor access information | [ID] | `docs: add visitor access information` |
+| Visitor access information | [ID] |  |
 | GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
 | Final reflection | [ID] | `docs: complete independent Git reflection` |
 
